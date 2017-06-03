@@ -1,0 +1,19 @@
+{
+  "name": "json-tilemap-maker",
+  "version": "1.0.0",
+  "description": "Create Tilemaps in your browser to be exported as JSON. These JSON files can easily be interpreted for use in any language that can read JSON data.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinejh/JSON-Tilemap-Maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinejh/JSON-Tilemap-Maker/issues"
+  },
+  "homepage": "https://github.com/pinejh/JSON-Tilemap-Maker#readme"
+}
